@@ -15,7 +15,10 @@
    id="svg4332"
    version="1.1"
    inkscape:version="0.91+devel r13925"
-   sodipodi:docname="michael-manring.svg">
+   sodipodi:docname="michael-manring.svg"
+   inkscape:export-filename="/Users/agarone/Documents/git/art/michael-manring/michael-manring.png"
+   inkscape:export-xdpi="95.951363"
+   inkscape:export-ydpi="95.951363">
   <defs
      id="defs4334" />
   <sodipodi:namedview
@@ -25,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="314.11849"
-     inkscape:cy="551.04229"
+     inkscape:zoom="2.8"
+     inkscape:cx="356.97563"
+     inkscape:cy="922.47087"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer24"
      showgrid="false"
      units="px"
      showguides="true"
@@ -81,7 +84,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.60810661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5606"
