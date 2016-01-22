@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91+devel r13925"
    sodipodi:docname="paul-hanson-interview-facebook-thumbnail.svg"
-   inkscape:export-filename="/Users/agarone/Documents/git/art/paul-hanson/interview/paul-hanson-interview-video-facebook-thumbnail-1280x720.png"
+   inkscape:export-filename="/Users/agarone/Documents/git/art/paul-hanson/interview/paul-hanson-interview-video-facebook-thumbnail-part2-1280x720.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -307,6 +307,18 @@
          x="205.88274"
          y="56.854988"
          style="stroke-width:0.41387296px">INTERVIEW:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.55484772px;line-height:125%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41387296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.88274"
+       y="130.08684"
+       id="text4274"
+       sodipodi:linespacing="125%"><tspan
+         style="stroke-width:0.41387296px"
+         y="130.08684"
+         x="205.88274"
+         sodipodi:role="line"
+         id="tspan4276">Part 2</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
