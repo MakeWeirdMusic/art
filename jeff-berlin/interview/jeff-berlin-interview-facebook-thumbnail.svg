@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -313,12 +313,14 @@
        x="205.88274"
        y="130.08684"
        id="text4274"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          style="stroke-width:0.41387296px"
          y="130.08684"
          x="205.88274"
          sodipodi:role="line"
-         id="tspan4276">Part 2</tspan></text>
+         id="tspan4276">Part 1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -336,12 +338,12 @@
          x="206.22064"
          y="82.034935"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.92503166px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.72311944px"
-         id="tspan4730">Paul</tspan><tspan
+         id="tspan5134">Jeff</tspan><tspan
          sodipodi:role="line"
          x="206.22064"
          y="110.95997"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.92503166px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.72311944px"
-         id="tspan5134">Hanson</tspan></text>
+         id="tspan4281">Berlin</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
