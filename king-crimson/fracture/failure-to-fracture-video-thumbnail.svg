@@ -96,10 +96,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="994.76823"
+     inkscape:cx="764.76823"
      inkscape:cy="454.56494"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g4216"
      showgrid="false"
      units="px"
      showguides="true"
@@ -449,7 +449,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="ep1">
+     inkscape:label="ep1"
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:30.88639259px;line-height:100%;font-family:'X.Template';-inkscape-font-specification:'X.Template, Heavy Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.60392157;stroke:#242424;stroke-width:0.77213109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -463,5 +464,23 @@
          x="235.4725"
          y="182.83359"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:30.88639259px;line-height:100%;font-family:'X.Template';-inkscape-font-specification:'X.Template, Heavy Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:0.60392157;stroke:#242424;stroke-width:0.77213109px;stroke-opacity:1">EPISODE 1: STRESS/TENSION</tspan></text>
+  </g>
+  <g
+     inkscape:label="ep2"
+     id="g4216"
+     inkscape:groupmode="layer">
+    <text
+       transform="scale(1.0765309,0.9289097)"
+       sodipodi:linespacing="100%"
+       id="text4218"
+       y="184.61713"
+       x="235.48354"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:35.36765289px;line-height:100%;font-family:'X.Template';-inkscape-font-specification:'X.Template, Heavy Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.60392157;stroke:#242424;stroke-width:0.88415843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:35.36765289px;line-height:100%;font-family:'X.Template';-inkscape-font-specification:'X.Template, Heavy Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:0.60392157;stroke:#242424;stroke-width:0.88415843px;stroke-opacity:1"
+         y="184.61713"
+         x="235.48354"
+         id="tspan4220"
+         sodipodi:role="line">EPISODE 2: ROUND PICKS</tspan></text>
   </g>
 </svg>
