@@ -15,7 +15,10 @@
    id="svg4332"
    version="1.1"
    inkscape:version="0.91+devel r13925"
-   sodipodi:docname="drum-talk-tv.svg">
+   sodipodi:docname="drum-talk-tv.svg"
+   inkscape:export-filename="/Users/agarone/Documents/git/art/drum-talk-tv/drum-talk-tv.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4334" />
   <sodipodi:namedview
@@ -26,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="454.15023"
+     inkscape:cx="291.51567"
      inkscape:cy="473.85454"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg4332"
      showgrid="false"
      units="px"
      showguides="true"
@@ -72,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,7 +84,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.60810661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5606"
