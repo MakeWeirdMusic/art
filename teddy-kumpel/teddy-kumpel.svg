@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91+devel r13925"
    sodipodi:docname="teddy-kumpel.svg"
-   inkscape:export-filename="/Users/agarone/Documents/git/art/teddy-kumpel/teddy-kumpel.png"
+   inkscape:export-filename="/Users/agarone/Documents/git/art/teddy-kumpel/teddy-kumpel-transparent.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="574.38197"
-     inkscape:cy="806.84559"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="361.83301"
+     inkscape:cy="572.53101"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      showguides="true"
@@ -117,18 +117,18 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#150c07;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 82.185379,126.53862 c -1.202714,-0.93544 -6.949008,2.13816 -9.354433,3.34087 -2.405425,1.20271 -9.48807,2.00452 -14.699824,5.61266 -5.211757,3.60814 -16.704347,8.15172 -18.040694,9.88897 -1.336347,1.73726 -14.967093,5.7463 -17.639788,7.75082 C 19.777945,155.13646 0,203.24497 0,203.24497 l 0,61.33836 100.76061,0 c 0,0 -20.178849,-124.9485 -20.045213,-128.69028 0.133635,-3.74177 1.870886,-8.41899 1.469982,-9.35443 z"
+       d="m 82.185379,126.53862 c -1.202714,-0.93544 -6.949008,2.13816 -9.354433,3.34087 -2.405425,1.20271 -9.48807,2.00452 -14.699824,5.61266 -5.211757,3.60814 -16.704347,8.15172 -18.040694,9.88897 -1.336347,1.73726 -14.967093,5.7463 -17.639788,7.75082 C 19.777945,155.13646 6.2135963,184.61988 0,203.24497 c -6.2135963,18.62509 -13.898016,61.33836 -13.898016,61.33836 l 114.658626,0 c 0,0 -20.178849,-124.9485 -20.045213,-128.69028 0.133635,-3.74177 1.870886,-8.41899 1.469982,-9.35443 z"
        id="path4859"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssscccsc"
+       sodipodi:nodetypes="csssszccsc"
        inkscape:export-xdpi="144"
        inkscape:export-ydpi="144" />
     <path
        style="fill:#150c07;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 155.6845,119.58961 1.20271,-3.34087 c 0,0 1.73725,3.74178 3.60814,3.74178 1.87089,0 13.22984,2.27179 18.70887,3.60814 5.47902,1.33634 10.55714,5.47902 14.16528,5.87993 3.60814,0.4009 15.63527,3.74177 17.63979,5.47902 2.00452,1.73725 53.57403,59.46747 53.57403,59.46747 l 0,70.15825 -115.98146,0 c 0,0 5.87993,-114.65863 6.14719,-119.33584 0.26727,-4.67722 0.40091,-24.45516 0.93545,-25.65788 z"
+       d="m 155.6845,119.58961 1.20271,-3.34087 c 0,0 1.73725,3.74178 3.60814,3.74178 1.87089,0 13.22984,2.27179 18.70887,3.60814 5.47902,1.33634 10.55714,5.47902 14.16528,5.87993 3.60814,0.4009 15.63527,3.74177 17.63979,5.47902 2.00452,1.73725 36.56871,37.46606 47.15956,60.26928 10.59085,22.80322 16.03617,69.35644 16.03617,69.35644 l -125.60316,0 c 0,0 5.87993,-114.65863 6.14719,-119.33584 0.26727,-4.67722 0.40091,-24.45516 0.93545,-25.65788 z"
        id="path4861"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsssscccsc" />
+       sodipodi:nodetypes="ccsssszccsc" />
     <path
        style="fill:#5d1f1f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 114.52678,157.80506 c -1.5119,0 -14.741066,7.9375 -17.953865,14.93006 -3.212798,6.99256 -7.181548,16.63095 -8.315475,15.49702 -1.13393,-1.13393 -8.126489,-45.35714 -7.9375,-49.70387 0.188986,-4.34672 0.755951,-11.90625 1.889882,-11.90625 1.133927,0 2.267854,0.37798 2.645833,3.40179 0.377976,3.02381 1.511903,4.91369 4.157736,7.74851 2.645834,2.83482 18.709819,18.52083 25.513389,20.03274 z"
