@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="something-she-said-thumbnail.svg"
-   inkscape:export-filename="C:\Users\Anthony Garone\Documents\GitHub\art\bela-fleck\something-she-said\something-she-said.png"
+   inkscape:export-filename="C:\Users\Anthony Garone\Documents\GitHub\art\bela-fleck\something-she-said\something-she-said-music-only.png"
    inkscape:export-xdpi="135"
    inkscape:export-ydpi="135">
   <defs
@@ -93,7 +93,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="536.28721"
+     inkscape:cx="894.45071"
      inkscape:cy="398.37559"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -176,15 +176,16 @@
      inkscape:groupmode="layer">
     <text
        id="text4211"
-       y="32.151577"
-       x="164.4351"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54964364px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       y="16.988796"
+       x="162.97249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.60913563px;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.485937px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0095257,0.99056422)"><tspan
          id="tspan4213"
          sodipodi:role="line"
-         x="164.4351"
-         y="32.151577"
-         style="font-size:21.98564911px;line-height:1.25;stroke-width:0.54964364px">LEARN:</tspan></text>
+         x="162.97249"
+         y="16.988796"
+         style="font-size:19.43739319px;line-height:1.25;stroke-width:0.485937px">LEARN:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -192,30 +193,36 @@
      inkscape:label="Artist Name">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.70015675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="165.25487"
-       y="58.038551"
-       id="text4158"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.60913563px;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.61900485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="163.69722"
+       y="39.875332"
+       id="text4158"
+       transform="scale(1.0095257,0.99056422)"><tspan
          sodipodi:role="line"
-         x="165.25487"
-         y="58.038551"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.0065155px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.70015675px"
+         x="163.69722"
+         y="39.875332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.76041031px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.61900485px"
          id="tspan12093">Béla Fleck's</tspan><tspan
          sodipodi:role="line"
-         x="165.25487"
-         y="86.045067"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.0065155px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.70015675px"
+         x="163.69722"
+         y="64.635742"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.76041031px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.61900485px"
          id="tspan2765">&quot;Something</tspan><tspan
          sodipodi:role="line"
-         x="165.25487"
-         y="114.05158"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.0065155px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.70015675px"
+         x="163.69722"
+         y="89.396149"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.76041031px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.61900485px"
          id="tspan2767">She Said&quot;</tspan><tspan
          sodipodi:role="line"
-         x="165.25487"
-         y="142.05811"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.0065155px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.70015675px"
-         id="tspan2769">Intro</tspan></text>
+         x="163.69722"
+         y="114.15656"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.76041031px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.61900485px"
+         id="tspan2769">Intro </tspan><tspan
+         sodipodi:role="line"
+         x="163.69722"
+         y="138.91698"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.76041031px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.61900485px"
+         id="tspan111">(Music Only)</tspan></text>
     <g
        id="g2758"
        transform="matrix(0.56733548,0,0,0.56733523,2.522198,-3.2695731)">
