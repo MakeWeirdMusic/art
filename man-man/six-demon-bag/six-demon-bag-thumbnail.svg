@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="disco-volante-thumbnail.svg"
+   inkscape:export-filename="/Users/agarone/Documents/GitHub/art/mr-bungle/disco-volante/disco-volante-thumbnail.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3995">
+      <stop
+         style="stop-color:#f46200;stop-opacity:1"
+         id="stop3997"
+         offset="0" />
+      <stop
+         style="stop-color:#7a3100;stop-opacity:1"
+         id="stop3999"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3980">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1"
+         id="stop3982"
+         offset="0" />
+      <stop
+         style="stop-color:#63381b;stop-opacity:1"
+         id="stop3984"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3970">
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         id="stop3972"
+         offset="0" />
+      <stop
+         style="stop-color:#8b3800;stop-opacity:1"
+         id="stop3974"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3942">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         id="stop3944"
+         offset="0" />
+      <stop
+         style="stop-color:#c1dfee;stop-opacity:1"
+         id="stop3946"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4408"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="fill:#00aad4;stroke-width:0.98;stroke:#000"
+         d="m696.25 529.15c0 0 26.26-20.91 40.41-24.56 14.14-3.65 33.34-6.81 46.97 0.49 13.64 7.29 6.31 65.9-24.24 72.7-30.56 6.81-69.7-4.86-63.13-48.63z"
+         id="path4410"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssc" />
+    </clipPath>
+    <clipPath
+       id="clipPath4415"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="fill:#00aad4;stroke-width:0.95;stroke:#000"
+         d="m787.83 524.52c0 0 10.35 15.5 2.02 29.86-8.33 14.36-24.75 32.82-61.87 21.65-37.12-11.17-41.16-53.56-26.01-66.55 15.15-12.99 28.28-14.13 85.86 15.04z"
+         id="path4417"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient5627">
+      <stop
+         style="stop-color:#f80000;stop-opacity:1"
+         id="stop5629"
+         offset="0" />
+      <stop
+         style="stop-color:#e69595;stop-opacity:1"
+         id="stop5631"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5619">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop5621"
+         offset="0" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         id="stop5623"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4838">
+      <stop
+         style="stop-color:#606060;stop-opacity:1"
+         id="stop4840"
+         offset="0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop4842"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4776">
+      <stop
+         style="stop-color:#c9c9c9;stop-opacity:1"
+         offset="0"
+         id="stop4778" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         offset="1"
+         id="stop4780" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4760">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4762" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         id="stop4764"
+         offset="0.52" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4766" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4744">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4746"
+         offset="0" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         offset="0.65"
+         id="stop4748" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4750"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4728">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4730" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         id="stop4732"
+         offset="0.72" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4734" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4708">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4710"
+         offset="0" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         offset="0.5"
+         id="stop4718" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4712"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4679">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4681"
+         offset="0" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         id="stop4683"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80654368"
+     inkscape:cx="354.65175"
+     inkscape:cy="350.96852"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3200"
+     inkscape:window-height="1675"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Gray BG"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-106.49999)">
+    <rect
+       style="opacity:1;fill:#52585e;fill-opacity:1;stroke:none;stroke-width:16.0535984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4141"
+       width="338.66669"
+       height="190.5"
+       x="1.4210855e-14"
+       y="106.49999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Orange Banner"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#de3d2d;fill-opacity:1;stroke:none;stroke-width:11.03082752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4144"
+       width="338.66669"
+       height="43.65625"
+       x="0"
+       y="146.84375" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Artist Image"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Discover"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50668812px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="173.85484"
+       y="40.767208"
+       id="text4147"><tspan
+         sodipodi:role="line"
+         id="tspan4164"
+         x="173.85484"
+         y="40.767208"
+         style="font-size:20.26743698px;line-height:1.25">DISCOVER:</tspan></text>
+  </g>
+  <g
+     inkscape:label="Interview"
+     id="g4209"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.78945923px;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43018845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.455727"
+       y="17.792198"
+       id="text4167"><tspan
+         y="17.792198"
+         x="10.455727"
+         sodipodi:role="line"
+         id="tspan4169"
+         style="font-size:17.20746422px;line-height:1.25;stroke-width:0.43018845px">SHARE:</tspan></text>
+  </g>
+  <g
+     inkscape:label="Blue Banner"
+     id="g4203"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       y="146.84375"
+       x="0"
+       height="43.65625"
+       width="338.66669"
+       id="rect4205"
+       style="opacity:1;fill:#f9a234;fill-opacity:1;stroke:none;stroke-width:11.03082752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Part"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Artist Name">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.21738911px;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.53034574px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.695363"
+       y="44.009346"
+       id="text4158"><tspan
+         sodipodi:role="line"
+         x="10.695363"
+         y="44.009346"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.43333435px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.53034574px"
+         id="tspan4879">&quot;Disco Volante&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="10.695363"
+         y="71.44268"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.43333435px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.53034574px"
+         id="tspan1023">by Mr. Bungle</tspan><tspan
+         sodipodi:role="line"
+         x="10.695363"
+         y="98.876015"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.43333435px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.53034574px"
+         id="tspan1025">Jaw Droppers</tspan><tspan
+         sodipodi:role="line"
+         x="10.695363"
+         y="126.30935"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.43333435px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.53034574px"
+         id="tspan1027">Episode 2</tspan></text>
+    <g
+       id="g1012"
+       transform="matrix(0.65617485,0,0,0.65617485,176.97372,6.0058048)">
+      <g
+         style="display:none"
+         transform="translate(0,-32.41665)"
+         id="layer1-9"
+         inkscape:label="BG">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="32.416641"
+           x="0"
+           height="264.58334"
+           width="264.58334"
+           id="rect4493" />
+      </g>
+      <g
+         inkscape:label="MB"
+         id="layer2-3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1004"
+           d="m 134.18155,13.607142 c 0,0 -36.663694,27.592261 -58.586312,61.043155 -21.92262,33.450893 -31.561013,65.011903 -36.096728,86.556543 -4.535712,21.54465 -3.401785,33.82887 -3.401785,33.82887 l 22.300597,7.37054 3.590771,12.09524 20.032739,6.2366 5.291667,13.41816 48.002971,13.60714 46.1131,-12.47322 5.10268,-13.79612 20.5997,-6.4256 3.40179,-11.71726 21.92261,-6.99256 c 0,0 1.32292,-25.89137 -8.31547,-56.12947 C 214.50149,109.99107 200.51637,81.075891 177.45982,52.916666 154.40327,24.75744 134.18155,13.607142 134.18155,13.607142 Z"
+           style="fill:#989e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="csccsccsccsccscccc"
+           inkscape:connector-curvature="0"
+           id="path1006"
+           d="m 127.56696,41.199403 c 0,0 -14.55208,18.331846 -20.97768,33.639881 -6.43101,15.320922 -10.961305,30.427086 -10.961305,30.427086 L 84.099701,91.659225 c 0,0 -12.284226,16.252975 -20.032737,38.931545 -6.270121,18.35157 -8.504465,48.38095 -8.504465,48.38095 l 10.772323,8.50447 c 0,0 1.889879,-22.3006 7.181545,-39.30953 5.291667,-17.00892 12.473215,-30.80505 12.473215,-30.80505 l 5.480656,6.04761 c 0,0 -4.346728,21.35566 -6.614583,41.57739 -2.267858,20.22172 -0.944941,37.23065 -0.944941,37.23065 l 13.607142,10.01637 c 0,0 1.133928,-36.28572 5.102674,-60.47619 3.96875,-24.19048 11.90625,-50.8378 11.90625,-50.8378 l -2.07886,118.49553 15.11904,7.74852 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccsscssccsscccscc"
+           inkscape:connector-curvature="0"
+           id="path1008"
+           transform="scale(0.26458333)"
+           d="m 534.28516,155.71484 v 702.85743 c 0,0 96.42968,-30.71459 156.42968,-77.85743 60,-47.14287 105.71375,-100.71402 69.28516,-147.14257 -41.32428,-52.66815 -69.28516,-55 -69.28516,-55 0,0 60.71319,-27.14317 66.42746,-72.14314 5.31569,-41.86115 -8.57115,-92.85686 -79.99972,-187.85686 C 605.71401,223.57226 534.28516,155.71484 534.28516,155.71484 Z m 54.28711,142.85743 c 0,0 65.70325,70.74361 92.85546,121.42773 21.42857,39.99999 28.57142,74.28487 0,101.42773 -28.57141,27.14287 -90.71289,6.42969 -90.71289,6.42969 z m 0.71289,297.85546 c 79.99997,19.28572 124.99444,46.50511 122.14257,87.14454 -2.85712,40.71428 -122.14257,85.71289 -122.14257,85.71289 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="WEIRD">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.2258606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 245.3457 602.625 L 245.3457 672.625 L 495.3457 672.625 L 495.3457 602.625 L 245.3457 602.625 z M 254.20703 613.5 L 258.08398 613.5 C 261.48345 613.5 263.18217 614.17987 263.99805 617.44336 L 271.4082 648.31055 C 272.02011 650.89414 272.36133 653.41016 272.36133 653.41016 L 272.49609 653.41016 C 272.49609 653.41016 272.90446 650.96213 273.65234 648.31055 L 283.30664 613.63477 L 289.42578 613.63477 L 298.40039 648.31055 C 299.08028 650.96213 299.41992 653.41016 299.41992 653.41016 L 299.55664 653.41016 C 299.55664 653.41016 299.8295 650.89414 300.44141 648.31055 L 307.98828 617.44336 C 308.80415 614.17987 310.43452 613.5 313.83398 613.5 L 317.70898 613.5 L 317.70898 619.3457 L 316.68945 619.3457 C 315.46565 619.3457 314.71885 619.61799 314.37891 620.8418 L 303.83984 661.5 L 295.95312 661.5 L 287.79492 631.17773 C 286.97905 628.05022 286.43555 624.58203 286.43555 624.58203 L 286.29883 624.58203 C 286.29883 624.58203 285.61824 628.04985 284.73438 631.10938 L 276.0332 661.5 L 268.07812 661.5 L 257.53906 620.8418 C 257.19912 619.61799 256.45232 619.3457 255.22852 619.3457 L 254.20703 619.3457 L 254.20703 613.5 z M 326.5 613.5 L 354.7168 613.5 C 357.77632 613.5 359.06641 614.79204 359.06641 617.85156 L 359.06641 623.90234 L 352.88086 623.90234 L 352.88086 620.8418 C 352.88086 619.82196 352.33662 619.3457 351.38477 619.3457 L 337.71875 619.3457 L 337.71875 634.37305 L 354.51172 634.37305 L 354.51172 640.21875 L 337.71875 640.21875 L 337.71875 654.15625 C 337.71875 655.1081 338.26299 655.65234 339.21484 655.65234 L 353.2207 655.65234 C 354.17255 655.65234 354.7168 655.1081 354.7168 654.15625 L 354.7168 651.09766 L 360.9707 651.09766 L 360.9707 657.14844 C 360.9707 660.20796 359.67866 661.5 356.61914 661.5 L 335.27148 661.5 C 332.21196 661.5 330.91992 660.20796 330.91992 657.14844 L 330.91992 619.3457 L 326.5 619.3457 L 326.5 613.5 z M 370.41406 613.5 L 386.25586 613.5 L 386.25586 619.3457 L 381.56445 619.3457 L 381.56445 655.65234 L 386.25586 655.65234 L 386.25586 661.5 L 370.41406 661.5 L 370.41406 655.65234 L 375.10547 655.65234 L 375.10547 619.3457 L 370.41406 619.3457 L 370.41406 613.5 z M 396.6543 613.5 L 417.5957 613.5 C 426.02638 613.5 431.94141 618.80359 431.94141 627.57422 C 431.94141 635.59696 426.70611 639.53923 423.30664 640.28711 L 423.30664 640.42383 C 423.30664 640.42383 424.52983 641.03585 425.3457 642.59961 L 431.125 654.08984 C 431.80489 655.51762 432.89365 655.65234 434.52539 655.65234 L 435.4082 655.65234 L 435.4082 661.5 L 432.07812 661.5 C 428.33871 661.5 426.97782 661.02399 425.41406 657.89648 L 418.88672 644.97852 C 417.66291 642.73487 416.78049 642.39453 414.12891 642.39453 L 407.87305 642.39453 L 407.87305 661.5 L 401.07422 661.5 L 401.07422 619.3457 L 396.6543 619.3457 L 396.6543 613.5 z M 443.75 613.5 L 463.19531 613.5 C 477.81302 613.5 487.4668 622.27002 487.4668 637.43164 C 487.4668 652.66125 477.81302 661.5 463.19531 661.5 L 452.51953 661.5 C 449.46001 661.5 448.16992 660.20796 448.16992 657.14844 L 448.16992 619.3457 L 443.75 619.3457 L 443.75 613.5 z M 407.87305 619.3457 L 407.87305 636.54883 L 416.71094 636.54883 C 421.87813 636.54883 424.9375 633.21686 424.9375 627.8457 C 424.9375 622.47455 421.87887 619.3457 416.84766 619.3457 L 407.87305 619.3457 z M 454.96875 619.3457 L 454.96875 654.15625 C 454.96875 655.1081 455.51299 655.65234 456.46484 655.65234 L 462.71875 655.65234 C 473.39308 655.65234 480.39648 649.26179 480.39648 637.43164 C 480.39648 625.66949 473.32509 619.3457 462.71875 619.3457 L 454.96875 619.3457 z "
+       transform="scale(0.26458334)"
+       id="rect4172" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="MAKE">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.690782"
+       y="175.02188"
+       id="text4175"><tspan
+         sodipodi:role="line"
+         id="tspan4177"
+         x="10.690782"
+         y="175.02188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.99166679px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:1.32291675px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458335px">MAKE</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="MUSIC">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.21758"
+       y="174.80598"
+       id="text4180"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="134.21758"
+         y="174.80598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.99166679px;line-height:100%;font-family:Museo;-inkscape-font-specification:'Museo, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458335px">MUSIC</tspan></text>
+  </g>
+</svg>
