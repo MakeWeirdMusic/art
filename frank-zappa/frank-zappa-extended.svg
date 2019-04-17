@@ -13,9 +13,9 @@
    height="1000"
    id="svg4040"
    version="1.1"
-   inkscape:version="0.91+devel r13925"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="frank-zappa-extended.svg"
-   inkscape:export-filename="/Users/agarone/Documents/git/art/frank-zappa/frank-zappa-extended-flipped.png"
+   inkscape:export-filename="/Users/agarone/Documents/GitHub/art/frank-zappa/frank-zappa-extended.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -27,35 +27,40 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="273.12204"
-     inkscape:cy="375.11235"
+     inkscape:zoom="1.4"
+     inkscape:cx="461.82936"
+     inkscape:cy="492.03288"
      inkscape:document-units="px"
-     inkscape:current-layer="svg4040"
+     inkscape:current-layer="g4179"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1151"
+     inkscape:window-width="3200"
+     inkscape:window-height="1677"
      inkscape:window-x="0"
      inkscape:window-y="1"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
     <sodipodi:guide
        orientation="1,0"
        position="0,0"
-       id="guide4048" />
+       id="guide4048"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="1000,1000"
-       id="guide4050" />
+       id="guide4050"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="1000,1000"
-       id="guide4052" />
+       id="guide4052"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="0,0"
-       id="guide4054" />
+       id="guide4054"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4045">
@@ -111,8 +116,9 @@
     <path
        inkscape:connector-curvature="0"
        id="path4665"
-       d="m 332.85714,953.57143 c 0,0 41.42857,5 85,-18.57143 43.57143,-23.57143 122.85715,-80.71429 179.28572,-184.28571 56.42857,-103.57143 49.28571,-499.28572 49.28571,-499.28572 L 537.14286,0 97.857143,0 c 0,0 -35,393.57143 -27.142857,450.71429 7.857143,57.14285 12.857143,239.28571 72.142854,337.85714 59.28572,98.57143 91.42857,167.14286 190,165 z"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+       d="m 332.85714,953.57143 c 0,0 41.42857,5 85,-18.57143 43.57143,-23.57143 122.85715,-80.71429 179.28572,-184.28571 56.42857,-103.57143 49.28571,-499.28572 49.28571,-499.28572 L 537.14286,0 H 97.857143 c 0,0 -40.108341,393.06967 -42.142857,450.71429 C 53.571429,511.42857 83.571429,690 142.85714,788.57143 c 59.28572,98.57143 91.42857,167.14286 190,165 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="csscccssc" />
     <path
        sodipodi:nodetypes="csssssscsssssc"
        inkscape:connector-curvature="0"
@@ -177,8 +183,9 @@
     <path
        inkscape:connector-curvature="0"
        id="path4681"
-       d="m 285,0 c 0,0 -65.71429,141.42857 -95.71429,181.42857 -30,40 -65,53.57143 -95.714281,125 C 62.857143,377.85714 72.142857,560.71429 90,635.71429 c 17.85714,75 89.28571,260 97.14286,312.14285 C 195,1000 198.57143,1000 198.57143,1000 L 0,1000 0,0 z"
-       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+       d="m 285,0 c 0,0 -65.71429,141.42857 -95.71429,181.42857 -30,40 -65,53.57143 -95.714281,125 -30.714286,71.42857 -25.000001,235.71429 -7.142858,310.71429 17.857139,75 92.857139,278.57143 100.714289,330.71428 C 195,1000 198.57143,1000 198.57143,1000 H 0 V 0 Z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="csssscccc" />
     <path
        sodipodi:nodetypes="csscsscsscscsssccsccsscc"
        inkscape:connector-curvature="0"
